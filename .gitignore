@@ -1,0 +1,13 @@
+
+Java build output
+
+/out/
+/bin/
+/target/
+*.class
+
+IDE / Editor files
+
+.vscode/
+.idea/
+*.log
